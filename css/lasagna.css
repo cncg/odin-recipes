@@ -1,0 +1,42 @@
+* {
+    font-family: monospace;
+    font-weight: 200;
+    background-color: aliceblue;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 300;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head-one {
+    text-align: center;
+    font-weight: bold;
+}
+
+.head-two,
+.head-three {
+    text-align: left;
+    font-weight: bold;
+}
+
+hr {
+    width: 580px;
+    border: solid lightslategray;
+}
+
+.lasagna {
+    width: 380px;
+    height: 200px;
+}
+
+.parent {
+    text-align: center;
+}
+
+.child {
+    text-align: left;
+}
