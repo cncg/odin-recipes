@@ -40,3 +40,9 @@ hr {
 .child {
     text-align: left;
 }
+
+strong,
+em {
+    font-weight: bold;
+    font-style: italic;
+}
