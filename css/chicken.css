@@ -1,8 +1,8 @@
 * {
     font-family: monospace;
     font-weight: 200;
-    background-color: aliceblue;
-    font-size: large;
+    background-color: #0c0e28;
+    color: mintcream;
 }
 
 h1 {
@@ -24,7 +24,7 @@ h1 {
 }
 
 hr {
-    width: 580px;
+    width: 400px;
     border: solid lightslategray;
 }
 
